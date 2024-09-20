@@ -1,0 +1,80 @@
+@media screen and (width:360px),
+(height:640px) {
+    .last {
+        margin-right: 20%;
+    }
+
+ 
+.form {
+    width: 99%;
+    margin-left: 7%;
+    border: 2px solid black;
+    padding-top: 2.5%;
+    padding-left: 3%;
+    background-color: rgb(117, 117, 162);
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
+}
+
+.welcome {
+    margin-left: 10px;
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+}
+
+footer .last {
+    position: absolute;
+    ;
+    left: 45%;
+    margin-top: 2%;
+}
+
+.form {
+    width: 25%;
+    margin-left: 7%;
+    border: 2px solid black;
+    padding-top: 2.5%;
+    padding-left: 3%;
+    background-color: rgb(117, 117, 162);
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
+
+.form textarea {
+    width: 89%;
+    margin-left: 4%;
+}
+
+.form button {
+    width: 25%;
+    margin-left: 35%;
+    margin-top: 2%;
+}
+
+.form #inputName {
+    width: 88%;
+}
+
+.form #inputEmail3 {
+    width: 95%;
+}
+
+.carousel-inner-sec {
+    margin-left: 40%;
+    position: absolute;
+    top: 78%;
+    width: 30%;
+    height: 20%;
+}
+
+.carousel-inner img {
+    border-radius: 7px;
+    height: 100%;
+    width: 100%;
+}
